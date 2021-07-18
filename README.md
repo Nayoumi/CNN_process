@@ -1,5 +1,6 @@
 # CNN_process
 1 Explained how the filters are applied in each layer.
+
 2. Applied kernel,padding,strides to the matrix.
 
 3. Formula for finding the resultant matrix.
